@@ -25,12 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import CodeRVA from "./company/codeRVA.png";
+import CodeRVA from "./company/CodeRVA.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import OpenAI from "./company/OpenAI.png"
-import Gear from "./company/Gear.png"
+import OpenAI from "./company/OpenAI.png";
+import Gear from "./company/Gear.png";
 export {
   logo,
   backend,
